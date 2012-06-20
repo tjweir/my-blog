@@ -5,8 +5,9 @@
 
 # Hello internet
 
-## I should learn markdown's syntax.
+I should learn markdown's syntax.
 
-I like to blog.  This is my first blog post via
-[Telegram](https://telegr.am).  Thanks for reading it.
+Hosted on [Telegram](https://telegr.am).  
+
+Thanks for reading.
 
