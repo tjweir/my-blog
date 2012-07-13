@@ -1,3 +1,22 @@
 <div>
-	<span data-css="footer *" data-lift="xform">This is my blog (c) 2012 by me</span>
+<div>
+    <!-- change the footer to put different message in it -->
+    <span data-lift="xform" data-css="footer *">(c) 2010-2012 David Pollak</span>
+
+    <!-- add a 'row' class to the element with id 'main_content_place' -->
+    <span data-lift="xform" data-css="#main_content_place [class+]">row</span>
+
+    <!-- make the left side column a 'span10' -->
+    <span data-lift="xform" data-css="#left_side [class+]">span10</span>
+
+    <!-- and make the right column a 'span6' -->
+    <span data-lift="xform" data-css="#right_side [class+]">span6</span>
+
+    <!-- insert the following div in the right column -->
+    <div data-lift="xform" data-css="#right_side *+">
+        <!-- the div includes a twitter feed -->
+       <span data-lift="twitter?user=tylerweir">
+    </div>
+</div>
+	<span data-css="footer *" data-lift="xform">This is my blog (c) 2012 by Tyler Weir</span>
 </div>
