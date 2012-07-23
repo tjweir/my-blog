@@ -1,10 +1,6 @@
-## About 
-
-I blog here.  This is a page that tells people about me.
-
 ## Contact Me
 
-You can put some contact information here
+The best way is via Twitter, I'm [@tylerweir](http://twitter.com/tylerweir)
 
 [title: About]: /
 [order: 20]: /
